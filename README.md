@@ -1,2 +1,2 @@
 # keycloak-spring-boot-user-federation
-Simple example
+Simple example of keycloak user federation.
